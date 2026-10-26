@@ -1,0 +1,4 @@
+interface:
+  display_name: "PDFtoMD"
+  short_description: "PDF 원문 보존, 목차·분량 균형 분할과 누적 기록 기반 분량 추천"
+  default_prompt: "$pdftomd 스킬로 이 PDF를 조사하고 분할 방식 선택을 도와줘. 분량 균형 분할은 누적 기록과 문서 구조로 분량을 제안한 뒤 내 선택에 따라 분할안과 시범 변환을 준비해줘."
